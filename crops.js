@@ -42,3 +42,9 @@ export let crops = {
     'cactus fruit' : 75,
     fiber : 1
 }
+export let cropAmount = {
+    'coffee bean' : 4,
+    blueberry : 3,
+    cranberries : 2,
+    fiber : 4
+}
